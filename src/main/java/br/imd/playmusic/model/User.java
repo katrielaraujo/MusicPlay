@@ -1,4 +1,4 @@
-package br.imd.ufrn.mediaplayer.model;
+package br.imd.playmusic.model;
 
 public abstract class User {
     private String name;

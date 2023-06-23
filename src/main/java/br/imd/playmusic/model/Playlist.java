@@ -1,4 +1,4 @@
-package br.imd.ufrn.mediaplayer.model;
+package br.imd.playmusic.model;
 
 import java.util.ArrayList;
 import java.util.List;

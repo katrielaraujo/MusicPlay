@@ -1,4 +1,5 @@
-package br.imd.ufrn.mediaplayer.model;
+package br.imd.playmusic.model;
+
 
 public class UserRegular extends User{
     private String PathDirector;
